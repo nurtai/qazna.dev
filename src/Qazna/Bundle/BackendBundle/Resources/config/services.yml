@@ -1,0 +1,7 @@
+parameters:
+#    qazna_backend.example.class: Qazna\Bundle\BackendBundle\Example
+
+services:
+#    qazna_backend.example:
+#        class: %qazna_backend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
