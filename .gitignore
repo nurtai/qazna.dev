@@ -8,3 +8,4 @@ config.php
 app.php
 app_dev.php
 robots.txt
+.idea/
